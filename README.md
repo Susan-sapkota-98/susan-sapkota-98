@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/susansapkota986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="susansapkota986" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/susan-sapkota-9373b91b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susan sapkota" height="30" width="40" /></a>
-<a href="https://fb.com/susan.sapkota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="susan sapkota" height="30" width="40" /></a>
+<a href="https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="susan sapkota" height="30" width="40" /></a>
 <a href="https://instagram.com/susansapkota8448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="susansapkota8448" height="30" width="40" /></a>
 </p>
 
