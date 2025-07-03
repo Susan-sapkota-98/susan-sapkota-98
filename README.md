@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Susan sapkota</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
+<img align="right" alt="coding"width="400" src="![coding](https://github.com/user-attachments/assets/c026fa4a-d22e-4a52-a5ae-eee8a77c7c8b)
+"
+>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susan-sapkota-98&label=Profile%20views&color=0e75b6&style=flat" alt="susan-sapkota-98" /> </p>
 
