@@ -1,32 +1,71 @@
-<h1 align="center">Hi 👋, I'm Susan Sapkota</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+# 🌸 Hi there, I'm **Susan Sapkota** 👋
 
-<img align="right" alt="coding" width="400" src="https://github.com/susan-sapkota-98/susan-sapkota-98/blob/main/assets/coding.gif?raw=true" />
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=susan-sapkota-98&label=Profile%20views&color=0e75b6&style=flat" alt="susan-sapkota-98" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=susan-sapkota-98" alt="susan-sapkota-98" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/susansapkota986" target="blank"><img src="https://img.shields.io/twitter/follow/susansapkota986?logo=twitter&style=for-the-badge" alt="susansapkota986" /></a> </p>
-
-- 🔭 I’m currently working on **MERN stack development**
-
-- 📫 How to reach me **susansapkota986@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/susansapkota986" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="susansapkota986" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/susan-sapkota-9373b91b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susan sapkota" height="30" width="40" /></a>
-<a href="https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="susan sapkota" height="30" width="40" /></a>
-<a href="https://instagram.com/susansapkota8448" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="susansapkota8448" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7971E&width=435&lines=Frontend+Developer;MERN+Stack+Learner;Love+to+Build+Cool+Projects!" alt="Typing SVG" />
 </p>
 
-<!-- Rest of your Languages and Tools section remains the same -->
-<!-- No changes needed in that part -->
+<p align="center">
+  <img src="https://github.com/susan-sapkota-98/susan-sapkota-98/blob/main/assets/coding.gif?raw=true" width="400" alt="coding" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=susan-sapkota-98&show_icons=true&locale=en&layout=compact" alt="susan-sapkota-98" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=susan-sapkota-98&show_icons=true&locale=en" alt="susan-sapkota-98" /></p>
+## ✨ About Me
+- 🌱 I’m currently working on **MERN stack development**
+- 📬 How to reach me: **susansapkota986@gmail.com**
+- 🌏 Based in **Nepal**
+- 🎯 Goal: To become a **full-stack developer** and contribute to open-source
+- ⚡ Fun fact: I love solving frontend challenges and exploring new tech 🚀
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=susan-sapkota-98&" alt="susan-sapkota-98" /></p>
+---
+
+## 🚀 Connect with Me
+<p align="left">
+  <a href="https://twitter.com/susansapkota986" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/susan-sapkota-9373b91b4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/susansapkota8448" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=susan-sapkota-98&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=susan-sapkota-98&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=susan-sapkota-98&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=susan-sapkota-98&theme=radical&row=1&margin-w=15&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=susan-sapkota-98&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+### 💖 _Thank you for visiting my profile! Let's connect and build something amazing together!_
+
