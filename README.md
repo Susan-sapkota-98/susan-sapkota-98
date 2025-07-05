@@ -1,35 +1,4 @@
-Skip to content
-Chat history
-You said:
-hello chatgpt if i send my readme profile code then could you  make uniue and interesting type readme profile for github
-ChatGPT said:
 
-Hello! Yes, absolutely — if you send me your current GitHub profile README code, I can help you redesign it to make it unique, attractive, and more engaging.
-
-I can help you:
-
-    Improve the structure
-
-    Add creative sections (like fun facts, GitHub trophies, visitor count, animated text, etc.)
-
-    Suggest cool visuals (GIFs, badges, custom icons)
-
-    Add better formatting with markdown tricks
-
-    Make it stand out from other profiles
-
-Please send your existing README, and let me know if you want:
-
-    A professional style
-
-    A fun and personal style
-
-    A developer-focused style
-
-    Or a mix of these
-
-I’m ready when you are! 😊
-You said:
 <h1 align="center">Hi 👋, I'm Susan Sapkota</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
