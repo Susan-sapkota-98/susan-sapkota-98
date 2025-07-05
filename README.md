@@ -12,11 +12,12 @@
 
 ## ✨ About Me
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Programmer GIF" />
-- 🌱 I’m currently focused on learning and building projects as a student developer.
-- 📬 How to reach me: **susansapkota986@gmail.com**
-- 🌏 Based in **Nepal**
-- 🎯 Goal: To become a **full-stack developer** and contribute to open-source
-- ⚡ Fun fact: I love solving frontend challenges and exploring new tech 🚀
+
+- 🌱 I’m currently focused on learning and building projects as a student developer.  
+- 📬 How to reach me: **susansapkota986@gmail.com**  
+- 🌏 Based in **Nepal**  
+- 🎯 Goal: To become a **full-stack developer** and contribute to open-source  
+- ⚡ Fun fact: I love solving frontend challenges and exploring new tech 🚀  
 
 ---
 
