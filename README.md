@@ -11,6 +11,8 @@
 ---
 
 ## ✨ About Me
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Programmer GIF" />
+
 - 🌱 I’m currently focused on learning and building projects as a student developer.
 - 📬 How to reach me: **susansapkota986@gmail.com**
 - 🌏 Based in **Nepal**
@@ -29,9 +31,6 @@
   </a>
   <a href="https://www.facebook.com/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/susansapkota8448" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
@@ -68,5 +67,3 @@
 ---
 
 ### 💖 _Thank you for visiting my profile! Let's connect and build something amazing together!_
-
-
