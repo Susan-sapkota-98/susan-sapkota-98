@@ -11,7 +11,7 @@
 ---
 
 ## ✨ About Me
-- 🌱 I’m currently working on **MERN stack development**
+🌱 I’m currently focused on learning and building projects as a student developer.
 - 📬 How to reach me: **susansapkota986@gmail.com**
 - 🌏 Based in **Nepal**
 - 🎯 Goal: To become a **full-stack developer** and contribute to open-source
