@@ -1,7 +1,7 @@
 # 🌸 Hi there, I'm **Susan Sapkota** 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7971E&width=435&lines=Frontend+Developer;MERN+Stack+Learner;Love+to+Build+Cool+Projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7971E&width=435&lines=Full+Stack+Developer;Data+Science+Learner;Love+to+Build+Cool+Projects!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 - 🌱 I’m currently focused on learning and building projects as a student developer.  
 - 📬 How to reach me: **susansapkota986@gmail.com**  
 - 🌏 Based in **Nepal**  
-- 🎯 Goal: To become a **full-stack developer** and contribute to open-source  
+- 🎯 Goal: To grow as a developer and contribute to technology that benefits society.
 - ⚡ Fun fact: I love solving frontend challenges and exploring new tech 🚀  
 
 ---
