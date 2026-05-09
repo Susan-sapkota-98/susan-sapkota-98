@@ -20,7 +20,7 @@
 - 🎯 Goal: To grow as a developer and contribute to technology that benefits society.
 - 🌏 Based in Nepal.
 - 📫 Reach me at: **susansapkota986@gmail.com**
-- ⚡ Fun fact: I enjoy solving frontend challenges and exploring new technologies.
+- ⚡ Fun fact: I enjoy learning new tools and experimenting with web technologies.
 
 ---
 
