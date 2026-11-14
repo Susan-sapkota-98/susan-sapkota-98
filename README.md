@@ -3,20 +3,20 @@
 
 I'm a Computer Engineering student at IOE, Purwanchal Campus, Tribhuvan University, Nepal.
 
-I enjoy learning new technologies by building projects and working on problems that I find interesting. Most of my recent work has been around Python, backend development, machine learning, and AI applications.
+I'm interested in Artificial Intelligence and Machine Learning, especially NLP, RAG systems, LLM applications, and speech recognition.
 
-I'm particularly interested in understanding how things work behind the scenes, not just making something that runs.
+I enjoy exploring how AI systems work, experimenting with different approaches, and building small projects to understand concepts beyond theory.
 
-Currently, I'm improving my software development skills and exploring applied AI through personal projects.
+I also have experience with web development, but most of my current learning and project interests are around AI/ML and research.
 
 ## About Me
 
-- I'm studying Computer Engineering in Nepal.
-- I mainly work with Python and JavaScript.
-- I'm interested in backend development, machine learning, RAG, and LLM applications.
-- I enjoy experimenting with ideas and learning from mistakes during development.
-- I'm also interested in research and understanding how machine learning models perform in real situations.
-- I'm looking for internship opportunities where I can learn from experienced developers and contribute to real projects.
+- I'm a Computer Engineering student in Nepal.
+- I mainly use Python for programming and experimentation.
+- I'm interested in Machine Learning, RAG systems, and LLM applications.
+- I enjoy trying out new ideas, building projects, and learning from mistakes.
+- I'm also interested in research, especially understanding how machine learning models perform in real-world situations.
+- I'm currently looking for internship opportunities where I can learn from experienced developers, improve my skills, and contribute to real-world projects.
 
 ## Projects
 
