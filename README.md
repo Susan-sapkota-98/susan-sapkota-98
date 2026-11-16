@@ -67,6 +67,31 @@ I'm a Computer Engineering student in Nepal who enjoys building applications and
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="650" style="background-color:#101827; border-radius:12px; padding:30px;">
+
+<h1 style="color:#91A9D0;">❝</h1>
+
+<h3>
+<i>Great opportunities are not seen with your eyes.<br/>
+They are seen with your mind.</i>
+</h3>
+
+<br/>
+
+<p align="right">
+<sub>— Personal Philosophy</sub>
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
 *Thanks for visiting my profile! 😊*
 
 </div>
